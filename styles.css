@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(177, 177, 177);
+    font-family: "Nunito";
+}
+
+.nav-link {
+    font-size: xx-large;
+    font-weight: 600;
+    color: black;
+}
+
+.nav-link:hover {
+    color: rgb(204, 255, 0);
+}
+
+.text {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-family: "Nunito";
+    font-weight: 600;
+    color: black;
+}
