@@ -35,3 +35,9 @@ h2 {
 .content {
     font-weight: 600;
 }
+
+.btn {
+    background-color: rgb(204, 255, 0);
+    color: black;
+    font-weight: 600;
+}
