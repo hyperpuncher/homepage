@@ -38,6 +38,7 @@ h2 {
 
 .btn {
     background-color: rgb(204, 255, 0);
+    border-color: rgb(204, 255, 0);
     color: black;
     font-weight: 600;
 }
